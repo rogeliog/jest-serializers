@@ -2,11 +2,11 @@
 
 # jest-serializers
 
-A collection of jest serializers.
+A collection of Jest serializers.
 
 ### Motivation
 
-Jest's snapshot testing is awesome, but it is currently associated with testing React components. The infrastructure that jest provides for snapshots is agnostic of React and can be used for a lot of amazing things. I would love to explore what snapshot testing can be used for and provide a way for the community to use this serializers.
+Jest's snapshot testing is awesome, but it is currently associated with testing React components. The infrastructure that Jest provides for snapshots is agnostic of React and can be used for a lot of amazing things. I would love to explore what snapshot testing can be used for and provide a way for the community to use this serializers.
 
 ```
 npm install --save-dev jest-serializers
