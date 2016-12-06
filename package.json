@@ -1,6 +1,6 @@
 {
   "name": "jest-serializers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of Jest serializers",
   "main": "index.js",
   "keywords": [
@@ -26,6 +26,5 @@
     "jest-serializer-enzyme": "^0.1.2"
   },
   "devDependencies": {},
-  "scripts": {
-  }
+  "scripts": {}
 }
