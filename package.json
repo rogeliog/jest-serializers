@@ -1,0 +1,25 @@
+{
+  "name": "jest-serializers",
+  "version": "0.0.1",
+  "description": "A collection of Jest serializers",
+  "main": "index.js",
+  "keywords": [
+    "jest",
+    "enzyme",
+    "test"
+  ],
+  "author": "Rogelio Guzman",
+  "license": "ISC",
+  "peerDependency": {
+    "enzyme": "^2.0.0",
+    "jest": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rogeliog/jest-serializers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogeliog/jest-serializers/issues"
+  },
+  "homepage": "https://github.com/rogeliog/jest-serializers#readme"
+}
